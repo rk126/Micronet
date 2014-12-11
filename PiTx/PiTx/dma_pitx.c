@@ -30,8 +30,8 @@
 /********************************************************************/
 
 
-#include "dma_xmit.h"
-#include "xmit.h"
+#include "dma_pitx.h"
+#include "pitx.h"
 #include "file_handler.h"
 
 
